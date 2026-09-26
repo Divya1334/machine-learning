@@ -58,12 +58,12 @@ Classification
 Regression
 
 - Linear Regression
-- Multiple Linear Regression
-- Polynomial Regression
 - KNN Regression
 - Decision Tree Regression
 - Random Forest Regression
 - Support Vector Regression
+- Gradient Boosting Regression
+- XG Boost Regression
 
 🔹 Unsupervised Learning
 
@@ -73,33 +73,42 @@ Regression
 
 🔹 Model Evaluation
 
-- Accuracy
-- Precision
-- Recall
-- F1-Score
-- Confusion Matrix
-- ROC-AUC
-- Cross-Validation
-- GridSearchCV
+# Regression
 
-📂 Projects
+MAE
 
-1. Obesity Classification Using Machine Learning
+MSE
 
-A multi-class classification project that predicts 7 obesity levels using lifestyle, physical, and behavioral features.
+RMSE
 
-Algorithms implemented:
+R² Score
 
-- Logistic Regression
-- KNN
-- SVM
-- Decision Tree
-- Random Forest
-- Naive Bayes
-- Gradient Boosting
-- XGBoost
+Adjusted R²
 
-📁 Project: "Obesity_all_classification_models"
+
+# Classification
+
+Accuracy
+
+Precision
+
+Recall
+
+F1-Score
+
+Confusion Matrix
+
+ROC-AUC
+
+Log Loss
+
+
+# Unsupervised Learning
+
+Silhouette Score
+
+Inertia (Within-Cluster Sum of Squares)
+
 
 🚀 Learning Journey
 
@@ -128,4 +137,4 @@ Currently building skills in:
 
 ---
 
-⭐ Feel free to explore the projects and notebooks in this repository!
+⭐ Feel free to explore the projects in this repository!
