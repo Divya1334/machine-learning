@@ -120,6 +120,3 @@ The trained model was saved using Pickle for future use and predictions.
 ## 👩‍💻 Author
 **Divya K**
 
-GitHub: [Add Your GitHub Profile Link]
-
-LinkedIn: [Add Your LinkedIn Profile Link]
